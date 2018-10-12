@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538156355902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "729982109",
+    "id" : "CBA7DE3B",
+    "lastKnownWriteTime" : 1539170278,
+    "last_content_update" : -2147483648,
+    "path" : "~/Modelling/R/weatherAnalysis.R",
+    "project_path" : "R/weatherAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "285,41",
+        "scrollLine" : "275",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

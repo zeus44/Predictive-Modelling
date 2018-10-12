@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538589113537.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3502911344",
+    "id" : "FD08A76C",
+    "lastKnownWriteTime" : 1538649792,
+    "last_content_update" : -2147483648,
+    "path" : "~/Modelling/R/2018worldCup.R",
+    "project_path" : "R/2018worldCup.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
